@@ -1,1 +1,7 @@
-ans
+Diff between http1.1 & http2
+(http1.1)it loads at a time one resource,others are hold
+(http2)it loads at a time two more resource,no one can be hold
+
+
+objects and its internal representation in Javascript
+objects is most important data type.objects in JavaScript may be defined as a unordered collection data 
